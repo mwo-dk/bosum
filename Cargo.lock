@@ -189,7 +189,7 @@ dependencies = [
 
 [[package]]
 name = "bosum-core"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "dirs",
  "memchr",
@@ -203,7 +203,7 @@ dependencies = [
 
 [[package]]
 name = "bosum-gui"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "bosum-core",
  "dirs",
@@ -216,7 +216,7 @@ dependencies = [
 
 [[package]]
 name = "bosum-tui"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "bosum-core",
  "chrono",
