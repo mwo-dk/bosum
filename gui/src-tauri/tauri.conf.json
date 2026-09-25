@@ -1,7 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "Bosum",
-  "version": "1.0.0",
   "identifier": "dk.mwo.bosum",
   "build": {
     "beforeDevCommand": "npm run dev",
