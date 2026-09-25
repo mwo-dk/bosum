@@ -26,3 +26,7 @@ target
 node_modules
 gui/dist
 gui/src-tauri/gen
+
+# Release archives made by package.sh
+/bosum-*.tar.gz
+/bosum-*.zip
